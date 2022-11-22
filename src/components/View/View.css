@@ -1,0 +1,54 @@
+.View {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.View-container {
+    margin-top: 100px;
+}
+
+.View-button {
+    height: 35px;
+    font-size: 15px;
+    border: none;
+    padding: 7px 14px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 4px;
+    margin-left: 4px;
+    color: white;
+    background: #185adb;
+}
+
+.View-loading {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.View-info {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.View-foto {
+    height: 200px;
+    border-radius: 10px;
+}
+
+.View-user-details {
+    list-style-type: none;
+}
+
+.View-user-details li {
+    margin-bottom: 5px;
+}
+
+.View-repositories {
+    text-align: left;
+}
+
+.View-container-button {
+    text-align: center;
+    margin-top: 20px
+}
