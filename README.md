@@ -50,6 +50,9 @@ A UI library with stylized components/classes ready to use like Bootstrap, Mater
 
 In the project directory, you can run:
 
+### `npm install`
+To install all dependencies.
+
 ### `npm start`
 
 Runs the app in the development mode.\
