@@ -1,7 +1,6 @@
 import { searchByUserName, getRepositoriesByUserName } from '../../../services/github/github';
 
 describe('Github API', () => {
-
     test('Testing searchByUserName invalid username', async () => {
         const response = await searchByUserName('drpcs2');
         expect(response.message).toEqual(`Not Found`);
