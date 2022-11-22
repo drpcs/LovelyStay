@@ -1,4 +1,4 @@
-### The challenge
+## The challenge
 
 In this challenge, you should be able to write a React app using whatever tools you want.
 
